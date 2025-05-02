@@ -1,0 +1,4 @@
+# robots.txt for www.jazinski.com.br
+
+User-agent: *
+Allow: /
