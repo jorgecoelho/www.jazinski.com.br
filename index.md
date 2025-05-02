@@ -52,7 +52,7 @@ Por meio de estruturas como complexidade prima e geometria harmônica, exploro a
 
 Esta pesquisa não é institucional. É pessoal, recorrente e enraizada numa busca de vida por padrões que revelem algo mais profundo que a previsão: a orientação.
 
-➡️ [Explore a Pesquisa em rdcj-research.com](https://www.rdcj-research.com)
+➡️ [Explore em rdcj-research.com](https://www.rdcj-research.com)
 
 ---
 
