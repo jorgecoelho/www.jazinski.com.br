@@ -8,3 +8,4 @@ Ao longo da carreira, liderei equipes multifuncionais e ajudei fundadores, CTOs 
 
 Em paralelo, conduzo uma iniciativa independente de pesquisa focada em sistemas simbólicos, epistemologia harmônica e emergência computacional — investigando como estrutura, ressonância e intenção moldam a evolução do conhecimento. Esse percurso começou nos anos 2000 com experimentações sobre convergência midiática e economia digital, e hoje se consolida como um programa formal de publicações, desenvolvimento de ferramentas e modelagem epistemológica.
 
+https://www.jazinski.com.br
