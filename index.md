@@ -11,9 +11,10 @@ description: "Arquiteto de Sistemas e CTO | Coach Executivo | Pesquisador Indepe
 <link rel="manifest" href="site.webmanifest">
 <link rel="shortcut icon" href="favicon.ico">
 
-<!--
-<img src="portrait.jpg" alt="Retrato de Rodrigo Jazinski" width="200" style="border-radius: 8px; margin-bottom: 20px;" />
--->
+<!-- Rodrigo Jazinski - Perfil -->
+<div align="center">
+  <img src="rodrigojazinski.jpg" alt="Rodrigo Jazinski" width="100%" alt="Rodrigo Jazinski - Retrato">
+</div>
 
 # Rodrigo Jazinski
 ➡️ [English version](https://www.rodrigojazinski.com)
@@ -24,13 +25,13 @@ Sou um líder tecnológico com abordagem sistêmica e mais de 25 anos de experi�
 
 Ao longo da carreira, liderei equipes multifuncionais e ajudei fundadores, CTOs e organizações a escalar soluções digitais, unindo visão estratégica e execução. Como coach executivo e de liderança, apoio indivíduos e equipes a navegarem pela complexidade com clareza, estrutura e presença emocional.
 
-Em paralelo, conduzo uma iniciativa independente de pesquisa focada em sistemas simbólicos, epistemologia harmônica e emergência computacional — investigando como estrutura, ressonância e intenção moldam a evolução do conhecimento. Esse percurso começou nos anos 2000 com experimentações sobre convergência midiática e economia digital, e hoje se consolida como um programa formal de publicações, desenvolvimento de ferramentas e modelagem epistemológica.
+Em paralelo, conduzo uma iniciativa independente de pesquisa focada em [sistemas simbólicos](https://www.symbolicresonance.com), epistemologia harmônica e emergência computacional — investigando como estrutura, ressonância e intenção moldam a evolução do conhecimento. Esse percurso começou nos anos 2000 com experimentações sobre convergência midiática e economia digital, e hoje se consolida como um programa formal de publicações, desenvolvimento de ferramentas e modelagem epistemológica.
 
 ---
 
 ## Coaching & Liderança
 
-Atuo como CTO fracionado e coach executivo — apoiando times em crescimento, fundadores e organizações a alinharem visão com entrega.
+[Atuo como CTO e coach executivo](https://www.linkedin.com/in/jazinski/) — apoiando times em crescimento, fundadores e organizações a alinharem visão com entrega.
 
 Como CTO, atuo na interseção entre arquitetura, engenharia e desenvolvimento de produto. Auxilio equipes a escalarem suas plataformas, projetarem sistemas resilientes e tomarem decisões que conciliem demandas imediatas com flexibilidade futura. Minha orientação técnica é baseada em décadas de experiência prática — desde as primeiras plataformas web até sistemas de infraestrutura e dados complexos.
 
@@ -46,7 +47,7 @@ Minha abordagem é centrada em sistemas, mas consciente das pessoas. Trabalho me
 
 ## Pesquisa
 
-Minha pesquisa independente investiga como o conhecimento é estruturado — não apenas por lógica ou dados, mas por forma, ressonância e intenção simbólica. O trabalho parte de questões fundamentais: como os sistemas representam sentido? O que está por trás da emergência e da transformação? Sistemas simbólicos podem atuar como motores formais de pensamento?
+Minha [pesquisa independente](https://www.rdcj-research.com) investiga como o conhecimento é estruturado — não apenas por lógica ou dados, mas por forma, ressonância e intenção simbólica. O trabalho parte de questões fundamentais: como os sistemas representam sentido? O que está por trás da emergência e da transformação? Sistemas simbólicos podem atuar como motores formais de pensamento?
 
 Por meio de estruturas como complexidade prima e geometria harmônica, exploro a tensão entre estrutura abstrata e compreensão encarnada — cruzando disciplinas como matemática, teoria musical, cognição e computação.
 
