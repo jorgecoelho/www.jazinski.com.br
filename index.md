@@ -12,9 +12,7 @@ description: "Arquiteto de Sistemas e CTO | Coach Executivo | Pesquisador Indepe
 <link rel="shortcut icon" href="favicon.ico">
 
 <!-- Rodrigo Jazinski - Perfil -->
-<div align="center">
-  <img src="rodrigojazinski.jpg" alt="Rodrigo Jazinski" width="100%" alt="Rodrigo Jazinski - Retrato">
-</div>
+![image](rodrigojazinski.jpg)
 
 # Rodrigo Jazinski
 ➡️ [English version](https://www.rodrigojazinski.com)
