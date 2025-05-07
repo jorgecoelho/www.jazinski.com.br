@@ -57,6 +57,6 @@ Esta pesquisa não é institucional. É pessoal, recorrente e enraizada numa bus
 
 Este site está disponível em [versão em inglês](https://www.rodrigojazinski.com).
 
-_© 2025 R.D.C. Jazinski. Todos os direitos reservados._
+_© 2025 Rodrigo Jazinski. Todos os direitos reservados._
 
 
